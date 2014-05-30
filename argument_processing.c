@@ -67,7 +67,7 @@ int main(int argc, char *argv[])
         }
         if((*argv[0]+0)=='-')/* Trigerring the optional arguments        */
         {
-            switch(e_strcmp(argv[i], "-a"))
+            switch(e_strcmp(argv[i], "-a"))/*You can change the case number according to your need*/
             {
                 case 0:
                     /* Statements to be executed for -a optional argument */

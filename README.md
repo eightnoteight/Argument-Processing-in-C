@@ -1,4 +1,6 @@
 Argument-Processing-in-C
 ========================
 
-Command Line Arguments processing techniques and Library
+Command Line Arguments processing techniques.
+this would be useful for who are beginners
+who doesn't come across getopt
